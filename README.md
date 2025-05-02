@@ -8,12 +8,18 @@
 - 🎯 Foco em performance, usabilidade e automatização inteligente.
 
 ## 🔧 Tecnologias & Ferramentas que uso:
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=power-bi)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
 ## 💼 Projetos em Destaque
 | Projeto | Descrição | Link |
