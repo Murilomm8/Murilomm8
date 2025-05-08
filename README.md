@@ -24,7 +24,12 @@
 ## 💼 Projetos em Destaque
 | Projeto | Descrição | Link |
 | AUTOESTOQ | Sistema de automação de estoque inteligente | Em desenvolvimento |
+
 | Web portifólio | Portifólio web | [Ver projeto](https://github.com/Murilomm8/portifolio-mm.git) |
+
+| Web gestão | Sistema de gestão pessoal | [Ver projeto](https://github.com/Murilomm8/Gest-o-pessoal) |
+
+| Kanban try | Sistema web Kanban |  [Ver projeto](https://github.com/Murilomm8/kanban-board-interativo) |
 
 ## 📈 GitHub Stats
 ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilomm8&show_icons=true&theme=tokyonight)
