@@ -22,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
 ## 💼 Projetos em Destaque
-| Projeto | Descrição | Link |
+
 | AUTOESTOQ | Sistema de automação de estoque inteligente | Em desenvolvimento |
 
 | Web portifólio | Portifólio web | [Ver projeto](https://github.com/Murilomm8/portifolio-mm.git) |
