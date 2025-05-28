@@ -11,7 +11,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=power-bi)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
