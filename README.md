@@ -13,7 +13,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=power-bi)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
