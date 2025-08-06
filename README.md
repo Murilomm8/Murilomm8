@@ -30,7 +30,7 @@
 
 | Kanban try | Sistema web Kanban |  [Ver projeto](https://github.com/Murilomm8/kanban-board-interativo) |
 
-| Chat | Chat virtual |  [Ver projeto](https://github.com/Murilomm8/Chat) |
+| Helpus | plataforma de ticket |  [Ver projeto](https://github.com/Murilomm8/helpus) |
 
 ## 📈 GitHub Stats
 ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilomm8&show_icons=true&theme=tokyonight)
