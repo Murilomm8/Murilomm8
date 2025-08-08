@@ -22,8 +22,6 @@
 
 ## 💼 Projetos em Destaque
 
-| AUTOESTOQ | Sistema de automação de estoque inteligente | Em desenvolvimento |
-
 | Web portifólio | Portifólio web | [Ver projeto](https://github.com/Murilomm8/portifolio-mm.git) |
 
 | Web gestão | Sistema de gestão pessoal | [Ver projeto](https://github.com/Murilomm8/Gest-o-pessoal) |
