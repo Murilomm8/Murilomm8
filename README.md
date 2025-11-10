@@ -13,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
+![Flask](https://img.shields.io/badge/-flask-000?&logo=flask)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
