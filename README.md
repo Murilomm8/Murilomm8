@@ -9,16 +9,18 @@
 
 ## 🔧 Tecnologias & Ferramentas que uso:
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 
 ## 💼 Projetos em Destaque
 
